@@ -38,7 +38,7 @@
 							<header class="major">
 								<h2>What's CodHer</h2>
 							</header>
-							<p>The ACM-CEG student chapter is proud to present CodHer, a hackathon open to girl students of all years, departments and colleges. Join us on March 17 and 18 at the Department of Information Science and Technology, College of Engineering Guindy. A hackathon is a social coding event where participants are asked to develop software pertaining to a particular theme (hackathon track) within a fixed time period.</p>
+							<p>The ACM-CEG student chapter is proud to present CodHer, a hackathon open to girl students of all years, departments and colleges. Join us on March 17 and 18 at the Department of Information Science and Technology, College of Engineering Guindy. A hackathon is a social coding event where participants are asked to develop software pertaining to a particular theme (hackathon track) within a fixed time period. Registration and additional details can be found at <google form link>.</p>
 						</div>
 						<div class="6u$ 12u$(medium) important(medium)">
 							<span class="image fit"><img src="images/pic01.jpg" alt="" /></span>
@@ -65,39 +65,15 @@
 							<header class="major">
 								<h2>Why should you participate ?</h2>
 							</header>
-							<ul>
-								<li>Helps foster innovation and creativity</li>
-								<li>Meet people with different ideas</li>
-								<li>Great opportunity to learn and fine-tune technical and business skills</li>
-								<li>Free snacks and great prizes!</li>
-							</ul>
-
-							<header class="major">
-								<h2>Rules</h2>
-							</header>
-							<ul>
-								<li>Each team can have a maximum of 3 girl students.</li>
-								<li>24 hour event</li>
-								<li>Students must bring their laptops. Internet connectivity will be provided.</li>
-							</ul>
-
-							<header class="major">
-								<h2>Hackathon tracks</h2>
-							</header>
-							<ul>
-								<li>Artificial Intelligence</li>
-								<li>Women Empowerment</li>
-								<li>Social causes - disaster relief, environmental awareness, fund rasing etc.</li>
-								<li>Finance & Technology (FinTech)</li>
-								<li>Cybersecurity</li>
-							</ul>
+							<p>Adipiscing a commodo ante nunc accumsan interdum mi ante adipiscing. A nunc lobortis non nisl amet vis volutpat aclacus nascetur ac non. Lorem curae eu ante amet sapien in tempus ac. Adipiscing id accumsan adipiscing ipsum.</p>
+							<p>Blandit faucibus proin. Ac aliquam integer adipiscing enim non praesent vis commodo nunc phasellus cubilia ac risus accumsan. Accumsan blandit. Lobortis phasellus non lobortis dit varius mi varius accumsan lobortis. Blandit ante aliquam lacinia lorem lobortis semper morbi col faucibus vitae integer placerat accumsan orci eu mi odio tempus adipiscing adipiscing adipiscing curae consequat feugiat etiam dolore.</p>
+							<p>Adipiscing a commodo ante nunc accumsan interdum mi ante adipiscing. A nunc lobortis non nisl amet vis volutpat aclacus nascetur ac non. Lorem curae eu ante amet sapien in tempus ac. Adipiscing id accumsan adipiscing ipsum.</p>
 						</div>
 					</div>
 				</div>
 			</section>
 
 		<!-- Three -->
-		<!--
 			<section id="three" class="main style1 special">
 				<div class="container">
 					<header class="major">
@@ -132,17 +108,17 @@
 					</div>
 				</div>
 			</section>
-		-->
 
 		<!-- Four -->
 			<section id="four" class="main style2 special">
 				<div class="container">
 					<header class="major">
-						<h2>Sign up for the Event</h2>
+						<h2>Ipsum feugiat consequat?</h2>
 					</header>
-					
+					<p>Sed lacus nascetur ac ante amet sapien.</p>
 					<ul class="actions uniform">
-						<li><a href="https://goo.gl/forms/CFLMd1ZGchaK3lIs2" class="button special">Register</a></li>
+						<li><a href="#" class="button special">Sign Up</a></li>
+						<li><a href="#" class="button">Learn More</a></li>
 					</ul>
 				</div>
 			</section>
@@ -470,13 +446,15 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 		<!-- Footer -->
 			<section id="footer">
 				<ul class="icons">
-					
-					<li><a href="https://www.facebook.com/acm.ceg/" class="icon alt fa-facebook"><span class="label">Facebook</span></a></li>
-					
-					
+					<li><a href="#" class="icon alt fa-twitter"><span class="label">Twitter</span></a></li>
+					<li><a href="#" class="icon alt fa-facebook"><span class="label">Facebook</span></a></li>
+					<li><a href="#" class="icon alt fa-instagram"><span class="label">Instagram</span></a></li>
+					<li><a href="#" class="icon alt fa-github"><span class="label">GitHub</span></a></li>
 					<li><a href="#" class="icon alt fa-envelope"><span class="label">Email</span></a></li>
 				</ul>
-				
+				<ul class="copyright">
+					<li>&copy; Untitled</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+				</ul>
 			</section>
 
 		<!-- Scripts -->
